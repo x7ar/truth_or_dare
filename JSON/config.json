@@ -1,0 +1,9 @@
+{
+    "TOKEN":"",
+    "prefix":"!",
+    "translatee":"true",
+    "translate_config":{
+        "form":"en",
+        "to":"ar"
+    }
+}
